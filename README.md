@@ -1,5 +1,4 @@
 "# Forest-Fire-Prediction-Data-245" 
-"# AI-Lyrics-Generator" 
 
 Wildfire Size Forecasting: A Machine Learning Approach
 
